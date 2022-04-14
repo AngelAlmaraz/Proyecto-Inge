@@ -1,1 +1,3 @@
 print("Almaraz")
+
+night = "night"
