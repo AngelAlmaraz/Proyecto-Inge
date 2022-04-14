@@ -1,3 +1,3 @@
 print("I need the succ")
 
-print("Night is gay")
+print("Night is NUT gay")
